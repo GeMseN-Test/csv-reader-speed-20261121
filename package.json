@@ -1,0 +1,1 @@
+{"description":"Single-pass, hand-scanned CSV reader — faster drop-in replacement for csv-reader 1.0.0","engines":{"node":">=22"},"license":"MIT","main":"src/index.js","name":"csv-reader-speed","scripts":{"bench":"node bench/bench.js","test":"node test/exactness.test.js"},"type":"commonjs","version":"1.0.0"}
