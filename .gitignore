@@ -1,3 +1,8 @@
+.DS_Store
+kit-fresh/
+kit.tar.gz
+FINISH.md
+prompt.txt
+transcripts.tar.gz
 node_modules/
 *.log
-.DS_Store
